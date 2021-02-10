@@ -8,4 +8,4 @@ Musical artist and student in computer science and mathematics in a French "Gran
 - :email:	nassim.saidsalimo@gmail.com
 - :briefcase: LinkedIn: https://www.linkedin.com/in/mlamalisaidsalimo/
 
-#### :mag: Currently looking for a 3-month internship in DevPython from the end of May 2021 ! 
+#### :mag: Currently looking for a 3-month internship in France :fr: from the end of May 2021 ! 
