@@ -1,6 +1,6 @@
 ### Hello, I am Mlamali SAID SALIMO ! :wave:
 
-Musical artist and student in computer science and mathematics in a French "Grande Ecole" :fr.
+Musical artist and student in computer science and mathematics in a French "Grande Ecole" :fr:.
 
 - :mortar_board: Majoring in: Data science and artificial intelligence
 - :computer: Technologies: Python, C, JavaScript
