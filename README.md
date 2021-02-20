@@ -7,4 +7,4 @@ Musical artist and student in computer science and mathematics in a French "Gran
 
 #### :mag: Currently looking for a 3-month internship from the end of May 2021 ! 
 
-![](https://drive.google.com/open?id=1qdImoHmTLos_gc74zTZ-mHsmgm0DljkL&authuser=saidsalimo%40eisti.eu&usp=drive_fs)
+![](https://drive.google.com/uc?id=1qdImoHmTLos_gc74zTZ-mHsmgm0DljkL&authuser=saidsalimo%40eisti.eu&usp=drive_fs)
