@@ -23,8 +23,10 @@ internship_length, internship_begin = "4-month minimum", "starting in April 2021
 for x in me.getInterests():
     listen_to_me = "looking for a {} in {} Python internship {} !"
     print( listen_to_me.format(internship_length, x, internship_begin).upper() )
-
+    
+# If you understand the output of this code and you can help me, then contact me :)
 ```
+
 <p align="right">
-    <i>If you understand the output of this code and you can help me, then contact me :)</i>
+     <i>"Ce qui vient au monde pour ne rien troubler ne mérite ni égards ni patience."</i>
 </p>
