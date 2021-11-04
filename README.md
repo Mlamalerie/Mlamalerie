@@ -28,5 +28,6 @@ for x in me.getInterests():
 ```
 
 <p align="right">
+    ... <br>
      <i>"Ce qui vient au monde pour ne rien troubler ne mérite ni égards ni patience."</i>
 </p>
