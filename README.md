@@ -18,7 +18,7 @@
 me = Student("Mlamali", "SAIDSALIMO", "nassim.saidsalimo@gmail.com")
 me.addInterests( [ "Dev Python", "AI and Machine learning", "Data Vizualisation", "Data Analytics" ] )
 
-internship_length, internship_begin = "4-month minimum", "starting in April 2021"
+internship_length, internship_begin = "4-month minimum", "starting in April 2022"
 
 for x in me.getInterests():
     listen_to_me = "looking for a {} in {} Python internship {} !"
