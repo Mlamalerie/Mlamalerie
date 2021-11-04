@@ -1,7 +1,6 @@
 
-<p align="center"><img width="100%" src="https://drive.google.com/uc?export=view&id=16pz3ho4_JuUJfVh7pqZtZwaUFjDdKkM5&authuser=nassim.saidsalimo%40gmail.com&usp=drive_fs" alt="gif" /></p>
+<p align="center"><img width="85%" src="wall_1.gif" alt="gif" /></p>
 
-![](https://drive.google.com/uc?export=view&id=16pz3ho4_JuUJfVh7pqZtZwaUFjDdKkM5&authuser=nassim.saidsalimo%40gmail.com&usp=drive_fs)
 <br />
 
 <p align="center">Hello ! I'm Mlamali 👨🏾‍💻 from Paris, a former musical artist passionate about code and creation in general. </p>
@@ -12,7 +11,7 @@
 
 
 ---
-:mag: Currently looking for a internship...
+:mag: __Currently looking for a internship...__
 
 ```python
 
