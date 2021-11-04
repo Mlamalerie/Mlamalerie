@@ -1,5 +1,5 @@
 
-<p align="center"><img width="85%" src="wall_1.gif" alt="gif" /></p>
+<p align="center"><img width="100%" src="wall_1.gif" alt="gif" /></p>
 
 <br />
 
