@@ -3,13 +3,13 @@
 
 
 <p align="center">Hello ! I'm <b>Mlamali</b> 👨🏾‍💻 from Paris, a former musical artist passionate about code and creation in general. </p>
-<p align="center"> I'm a <b>computer science</b> and <b>mathematics</b> student in a French "Grande Ecole" :fr: who love writing in Python, and building useful tools and fun experiments. </p>
+<p align="center"> I'm a <b>computer science</b> and <b>mathematics</b> student in a French "Grande Ecole" :fr: who loves writing in Python, and building useful tools and fun experiments. </p>
 <p align="center">📧 Email : nassim.saidsalimo [at] gmail.com 📧</p>
 <p align="center">💼 LinkedIn : <a href="https://www.linkedin.com/in/mlamalisaidsalimo">mlamalisaidsalimo</a> 💼 </p>
 
 
 ---
-:mag: __Currently looking for a internship...__
+:mag: __Currently looking for an internship...__
 
 ```python
 
