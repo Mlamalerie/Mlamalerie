@@ -13,14 +13,14 @@
 
 ```python
 
-me = Student("Mlamali", "SAIDSALIMO", "nassim.saidsalimo@gmail.com")
-me.addInterests( [ "Dev Python", "AI and Machine learning", "Data Vizualisation", "Data Analytics" ] )
+me = Student("Mlamali", "SAIDSALIMO", "mlamali.saidsalimo[at]gmail.com")
+me.addInterests( [ "Dev Python", "Artificial Intelligence #ML #DL", "Text-mining (NLP)", "Data Visualization", "Data Analytics" ] )
 
 length, begin = "4-month minimum", "starting in April 2022"
 
-for i in me.getInterests():
-    listen_to_me = f"looking for a {length} in {i} Python internship {begin} !"
-    print( listen_to_me.upper() )
+for interest in me.getInterests():
+    listen_to_me = f"looking for a {length} in {interest.upper()} internship {begin} !"
+    print(listen_to_me)
     
 # If you understand the output of this code and you can help me, then contact me :)
 ```
