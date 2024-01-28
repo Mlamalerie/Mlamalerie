@@ -1,5 +1,5 @@
 # 
-<p align="center"><img width="100%" src="wall_1.gif" alt="gif" /></p>
+<p align="center"><img width="100%" src="QWc9-ezgif.com-crop.gif" alt="gif" /></p>
 
 
 <p align="center">Hello ! I'm <b>Mlamali</b> 👨🏾‍💻 from Paris, a former musical artist passionate about code and creation in general. </p>
